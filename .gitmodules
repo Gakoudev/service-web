@@ -1,3 +1,7 @@
 [submodule "node"]
 	path = node
 	url = https://github.com/Gakoudev/node-web-service.git
+[submodule "spring"]
+	path = spring
+	url = https://github.com/Gakoudev/spring-web-service.git
+
