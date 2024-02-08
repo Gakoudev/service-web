@@ -40,4 +40,4 @@ Consultez les README respectifs dans chaque module pour des instructions détail
 
 ---
 
-Ce projet a été développé par [Votre Nom/Organisation].
+Ce projet a été développé par Gakoudev.
