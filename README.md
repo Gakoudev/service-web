@@ -4,30 +4,25 @@ Ce dépôt contient deux modules qui implémentent un système CRUD (Create, Rea
 
 ## Module Spring (Java)
 
-Ce module utilise Spring Framework pour implémenter un service web RESTful permettant de gérer les étudiants. Il offre les fonctionnalités CRUD de base, en utilisant une base de données relationnelle pour stocker les données des étudiants.
+Ce module utilise Spring Framework pour implémenter un service web RESTful permettant de gérer les étudiants. Il offre les fonctionnalités CRUD de base.
 
 ### Fonctionnalités :
 - Ajout, modification, suppression et récupération des étudiants via des API REST.
-- Stockage des données dans une base de données relationnelle.
 
 ### Technologies utilisées :
 - Spring Boot
-- Spring Data JPA
 - Spring MVC
-- Base de données relationnelle (ex: MySQL, PostgreSQL)
 
 ## Module Node.js
 
-Ce module utilise Node.js avec Express.js pour implémenter un service web RESTful similaire pour la gestion des étudiants. Il offre également les fonctionnalités CRUD de base, mais utilise une approche différente pour le stockage des données, comme une base de données NoSQL ou un fichier JSON.
+Ce module utilise Node.js avec Express.js pour implémenter un service web RESTful similaire pour la gestion des étudiants. Il offre également les fonctionnalités CRUD de base.
 
 ### Fonctionnalités :
 - Ajout, modification, suppression et récupération des étudiants via des API REST.
-- Stockage des données dans une base de données NoSQL ou un fichier JSON.
 
 ### Technologies utilisées :
 - Node.js
 - Express.js
-- Base de données NoSQL (ex: MongoDB) ou stockage dans un fichier JSON
 
 ## Structure du dépôt
 
