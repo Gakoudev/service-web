@@ -1,6 +1,6 @@
 # Projet de web services
 
-Ce dépôt contient deux modules qui implémentent un système CRUD (Create, Read, Update, Delete) pour la gestion des étudiants à l'aide de différentes technologies :
+Ce dépôt contient: deux modules qui implémentent un système CRUD (Create, Read, Update, Delete) pour la gestion des étudiants à l'aide de différentes technologies et un module de Recherche de jour à partire d'une date
 
 ## Module Spring (Java)
 
