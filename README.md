@@ -1,4 +1,4 @@
-# Projet de gestion des étudiants
+# Projet de web services
 
 Ce dépôt contient deux modules qui implémentent un système CRUD (Create, Read, Update, Delete) pour la gestion des étudiants à l'aide de différentes technologies :
 
