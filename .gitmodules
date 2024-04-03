@@ -5,3 +5,7 @@
 	path = spring
 	url = https://github.com/Gakoudev/spring-web-service.git
 
+[submodule "recherche jour à partire de date"]
+	path = spring
+	url = https://github.com/Gakoudev/dayofdate.git
+
