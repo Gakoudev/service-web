@@ -4,9 +4,6 @@
 [submodule "spring"]
 	path = spring
 	url = https://github.com/Gakoudev/spring-web-service.git
-[submodule "recherche jour à partire de date"]
-	path = dayofdate
-	url = https://github.com/Gakoudev/dayofdate.git
 [submodule "dayofdate"]
 	path = dayofdate
 	url = https://github.com/Gakoudev/dayofdate.git
